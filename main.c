@@ -1,3 +1,5 @@
 incloud <main.c>
-int main(int x,int y):
-     print ("hello word   ");
+    print ("hello word   ");
+    print ("a")
+    return 0;
+
